@@ -1,2 +1,0 @@
-# maxtheman.github.io
-manatees!
