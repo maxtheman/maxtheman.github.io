@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: manatee-articles
 title: About
 permalink: /about/
 ---

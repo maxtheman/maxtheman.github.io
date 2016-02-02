@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: manatee-articles
 title: Manatee Images -- What and How?
+image: http://i.imgur.com/uRF2MuO.jpg
+blurb: Discover how the internet views and reflects out opinion of these gentle creatures
 ---
 
 **Manatees pictures have a dedicated following on social networks.**
